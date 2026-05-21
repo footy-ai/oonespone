@@ -9,6 +9,6 @@
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.arrow",
         "share_message": "Share app with friends https:\/\/play.google.com\/store\/apps\/details?id=com.cloudy.cricket.urdu",
         "bottom_visible": "no",
-        "msg_visible": "no"
+        "msg_visible": "yes"
     }
 ]
